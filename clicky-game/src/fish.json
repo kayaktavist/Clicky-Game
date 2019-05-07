@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "image": "images/CortezStingray.jpg",
+        "name":"Cortez Stingray"
+    },
+    {
+        "id": 2,
+        "image": "images/guitarfish.jpg",
+        "name":"Guitar Fish"
+    },
+    {
+        "id": 3,
+        "image": "images/king_angel.jpg",
+        "name":"King Angelfish"
+    },
+    {
+        "id": 4,
+        "image": "images/oarfish.jpg",
+        "name":"Oarfish"
+    },
+    {
+        "id": 5,
+        "image": "images/Opah.jpg",
+        "name":"Opah"
+    },
+    {
+        "id": 6,
+        "image": "images/spotted-eagle-ray.jpg",
+        "name":"Spotted Eagle Ray"
+    },
+    {
+        "id": 7,
+        "image": "images/sunfish.jpg",
+        "name":"Sunfish"
+    },
+    {
+        "id": 8,
+        "image": "images/triggerfish.jpg",
+        "name":"Triggerfish"
+    },
+    {
+        "id": 9,
+        "image": "images/yellowfin.jpg",
+        "name":"Yellowfin Tuna"
+    }
+]
